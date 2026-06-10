@@ -1,6 +1,6 @@
-# Journal
+# Journal (total: xHrs)
 
-## Scematic (devboard) - 3rd Jun 2026 (0.5hr)
+## Schematic (devboard) - 3rd Jun 2026 (1hr)
 
 Im using the [macondo](https://macondo.hackclub.com/docs/build-a-devboard) guide for help on this!
 
@@ -12,7 +12,7 @@ Im using the [macondo](https://macondo.hackclub.com/docs/build-a-devboard) guide
   ![](https://cdn.hackclub.com/019e8eaa-bff0-7f3e-a80d-8cf23a6ba875/image.png)
 </details>
 
-## Scematic (devboard) - 10rd Jun 2026 (0.5hrs)
+## Schematic (devboard) - 10rd Jun 2026 (2hrs)
 
 <details>
     <summary>
@@ -41,3 +41,42 @@ i could not for the life of me find that exact crystal footprint. turns out they
 </details>
 
 completed (hopefully) the devboard; also did some reranging of the layout of the parts
+
+## Schematic (keyboard switches) - 10rd Jun 2026 (3hrs)
+
+i dont know why but finding a "hotswap mx 5pin switch" took so long :'(. but i finally found the MX_V2 lib!! 
+
+<details>
+    <summary>
+        switch matrix wired
+    </summary>
+      
+  ![](https://cdn.hackclub.com/019eb38e-cd5f-7ae5-8ad0-a0b6d85c2c10/image.png)
+</details>
+
+## Schematic (Neopixels) - 10rd Jun 2026 (3hrs)
+
+I had to reasurch a few things...
+
+
+
+
+seccond was that will they take a 3.3v, if not then what... turns out they need a 5v but if it goes above they will go boom boom
+
+<details>
+    <summary>
+        so i added this capacitor, to stablize the voltage and not boom boom the neopixel
+    </summary>
+      
+  ![](https://cdn.hackclub.com/019eb38e-cd5f-7ae5-8ad0-a0b6d85c2c10/image.png)
+</details>
+
+last was can i chain 68 of them! turns out i can..
+
+<details>
+    <summary>
+        so i added the chain in the schematic and wired it all!
+    </summary>
+      
+  ![](eee)
+</details>

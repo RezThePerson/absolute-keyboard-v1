@@ -44,7 +44,7 @@ completed (hopefully) the devboard; also did some reranging of the layout of the
 
 ## Schematic (keyboard switches) - 10rd Jun 2026 (2hrs)
 
-i dont know why but finding a "hotswap mx 5pin switch" took so long :'(. but i finally found the MX_V2 lib!! 
+i dont know why but finding a "hotswap mx 5pin switch" took so long :'(. but i finally found the MX_V2 lib!!
 
 <details>
     <summary>
@@ -82,7 +82,7 @@ oh and also i found out that i can add themes :p
 
 ## Schematic (Thinking about making it wireless) - 10rd Jun 2026 (2hrs)
 
-i though about making it wireless... 
+i though about making it wireless...
 
 so i started googling and resurching, i would need to parts to this. making it bluetooth and adding a battery
 
@@ -95,3 +95,23 @@ bluetooth was harder. i could add another chip but that would be much more compl
 or i could change the rp2040 chip entirely for a nRF52840. that would solve the bluetooth issue.. but i would then need to also remaake its devboard and i dont think i trust myself to do that and expect it to work.
 
 so i eventualy decided that its fine if its not wireless, it would reduce some weight and it would be relitivly thiner!
+
+## Schematic (final stuff) - 10rd Jun 2026 (1hrs)
+
+added footprints
+
+fixed minor issues here and there, hopefully there are no more :p
+
+## PCB (placing them in the layout) - 10rd Jun 2026 (1hrs)
+
+so first i placed like about 10 of the 68 manualy using a grid, but then i realized there has to be a better way. and ofc there was
+
+<details>
+    <summary>
+        i installed the [Keyboard footprints placer](https://github.com/adamws/kicad-kbplacer) plugin. and used this (image given) configuration, with a 65% preset from [KLE](https://www.keyboard-layout-editor.com/#/)
+    </summary>
+      
+  ![](https://cdn.hackclub.com/019eb4fb-f313-7638-a226-63ec3ea9d9f1/image.png)
+</details>
+
+

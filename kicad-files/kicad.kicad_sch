@@ -9394,6 +9394,28 @@
 		)
 		(uuid "ffbff9e2-113a-42b7-952d-e6e71bb4369c")
 	)
+	(global_label "ROW_4"
+		(shape input)
+		(at 462.28 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0360714d-0048-4d24-88d6-c99f2838ba68")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 471.4942 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "QSPI_SD0"
 		(shape input)
 		(at 411.48 97.79 180)
@@ -9570,6 +9592,28 @@
 			)
 		)
 	)
+	(global_label "COL_12"
+		(shape input)
+		(at 462.28 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1bd28e87-f8d1-42c3-a22b-b45fe7cedb27")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 472.2804 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "QSPI_SD2"
 		(shape input)
 		(at 411.48 102.87 180)
@@ -9636,6 +9680,28 @@
 			)
 		)
 	)
+	(global_label "COL_3"
+		(shape input)
+		(at 462.28 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "341db02b-42f6-47b5-a64d-681a299245d2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 471.0709 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "QSPI_SD3"
 		(shape input)
 		(at 411.48 105.41 180)
@@ -9693,6 +9759,50 @@
 		(uuid "40e57cee-76ff-46f0-b4ea-a98702b5f898")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 80.01 53.4391 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_4"
+		(shape input)
+		(at 462.28 82.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "481a7b7b-9bf1-4c97-9a6d-0642e2661b8f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 471.0709 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_8"
+		(shape input)
+		(at 462.28 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "591f514a-6efa-4f83-ba51-a1b381e69b11")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 471.0709 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9768,6 +9878,28 @@
 			)
 		)
 	)
+	(global_label "COL_6"
+		(shape input)
+		(at 462.28 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "634306a4-77ca-4981-bc36-e8ccb682a85c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 471.0709 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "COL_4"
 		(shape input)
 		(at 105.41 62.23 90)
@@ -9834,6 +9966,50 @@
 			)
 		)
 	)
+	(global_label "COL_7"
+		(shape input)
+		(at 462.28 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "76899374-a830-41d9-99f9-25ea386de722")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 471.0709 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW_1"
+		(shape input)
+		(at 462.28 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7797001d-5555-4bba-889f-9f17b69241a5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 471.4942 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "QSPI_SD1"
 		(shape input)
 		(at 411.48 100.33 180)
@@ -9852,6 +10028,50 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_10"
+		(shape input)
+		(at 462.28 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7c7850c8-df26-453a-be46-ed38e5fd82d3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 472.2804 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_14"
+		(shape input)
+		(at 462.28 110.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7e990266-477b-4a5e-9eec-64efb8437f4b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 472.2804 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -9988,6 +10208,50 @@
 			)
 		)
 	)
+	(global_label "ROW_2"
+		(shape input)
+		(at 462.28 62.23 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8be92ff4-6fab-43b3-8f39-8f8620d88608")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 471.4942 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW_5"
+		(shape input)
+		(at 462.28 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8cd2a9a4-40d1-4160-8227-913c239e1c3e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 471.4942 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "COL_1"
 		(shape input)
 		(at 67.31 62.23 90)
@@ -10034,7 +10298,7 @@
 	)
 	(global_label "NEOPIXELS_1"
 		(shape input)
-		(at 462.28 59.69 0)
+		(at 462.28 115.57 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10044,7 +10308,7 @@
 		)
 		(uuid "9c4529ac-a174-46f5-9872-658418dabc03")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 477.7232 59.69 0)
+			(at 477.7232 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10089,6 +10353,28 @@
 		(uuid "a1c91af2-d9f4-4014-85ba-65b0f5f87eb9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 143.51 53.4391 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW_3"
+		(shape input)
+		(at 462.28 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a23204a1-446f-4ebb-8664-0d46da37f574")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 471.4942 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10160,6 +10446,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_13"
+		(shape input)
+		(at 462.28 107.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ab7f9d8d-a5ae-43a0-9c3b-1d7655a3a1b1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 472.2804 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -10340,6 +10648,50 @@
 			)
 		)
 	)
+	(global_label "COL_5"
+		(shape input)
+		(at 462.28 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d11b2c95-5925-4b63-8d54-22aa73b7620c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 471.0709 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_11"
+		(shape input)
+		(at 462.28 102.87 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d4d2eb2b-89af-4a55-b4c9-c0856a559c7c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 472.2804 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "COL_3"
 		(shape input)
 		(at 92.71 62.23 90)
@@ -10402,6 +10754,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_9"
+		(shape input)
+		(at 462.28 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e3e357cf-c252-444e-8add-26b0f26f6421")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 471.0709 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -10485,6 +10859,72 @@
 		(uuid "f9878e50-ffea-40f1-b2aa-17a65c10b93b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 118.11 53.4391 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_2"
+		(shape input)
+		(at 462.28 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f9c044b5-a75e-4a16-8b6a-797009f66562")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 471.0709 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_1"
+		(shape input)
+		(at 462.28 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fa58e01d-572e-44e3-92ca-10e435102a2e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 471.0709 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_5"
+		(shape input)
+		(at 462.28 85.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fda16bd0-f645-475b-b648-ac57bbf4f700")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 471.0709 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10673,7 +11113,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 518.16 123.698 90)
 			(effects
 				(font
@@ -10806,7 +11246,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 525.018 115.57 90)
 			(effects
 				(font
@@ -12454,7 +12894,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 455.93 203.708 90)
 			(effects
 				(font
@@ -13084,7 +13524,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 520.3952 281.94 0)
 			(effects
 				(font
@@ -13613,7 +14053,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 501.3452 281.94 0)
 			(effects
 				(font
@@ -14476,7 +14916,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 515.3152 201.93 0)
 			(effects
 				(font
@@ -15037,7 +15477,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4314521e-1b3b-44de-b02b-8d6df4830733")
-		(property "Reference" "SW1"
+		(property "Reference" "SW0"
 			(at 510.032 124.46 90)
 			(effects
 				(font
@@ -15055,7 +15495,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 516.89 127 0)
 			(effects
 				(font
@@ -15091,7 +15531,7 @@
 		(instances
 			(project ""
 				(path "/1d8376c1-95ec-446d-92f8-83525e9bc03f"
-					(reference "SW1")
+					(reference "SW0")
 					(unit 1)
 				)
 			)
@@ -16291,7 +16731,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 494.9952 281.94 0)
 			(effects
 				(font
@@ -17472,7 +17912,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 407.67 86.868 90)
 			(effects
 				(font
@@ -19223,7 +19663,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 514.0452 281.94 0)
 			(effects
 				(font
@@ -21481,7 +21921,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 449.2752 281.94 0)
 			(effects
 				(font
@@ -22143,7 +22583,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 482.2952 281.94 0)
 			(effects
 				(font
@@ -22506,7 +22946,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 469.5952 281.94 0)
 			(effects
 				(font
@@ -22662,7 +23102,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 491.1852 201.93 0)
 			(effects
 				(font
@@ -23051,7 +23491,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 430.2252 281.94 0)
 			(effects
 				(font
@@ -23932,7 +24372,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 549.91 56.388 90)
 			(effects
 				(font
@@ -25094,7 +25534,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100pF"
 			(at 478.028 191.516 0)
 			(effects
 				(font
@@ -25103,7 +25543,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 478.4852 193.04 0)
 			(effects
 				(font
@@ -25630,7 +26070,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 548.64 110.7948 0)
 			(effects
 				(font
@@ -25690,7 +26130,7 @@
 				)
 			)
 		)
-		(property "Value" "15pF"
+		(property "Value" "33pF"
 			(at 518.16 36.83 90)
 			(effects
 				(font
@@ -25698,7 +26138,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 521.97 40.9448 0)
 			(effects
 				(font
@@ -26062,7 +26502,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 534.67 48.26 0)
 			(effects
 				(font
@@ -26970,7 +27410,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 455.93 201.168 90)
 			(effects
 				(font
@@ -27039,7 +27479,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 488.6452 281.94 0)
 			(effects
 				(font
@@ -27402,7 +27842,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 442.9252 281.94 0)
 			(effects
 				(font
@@ -27911,7 +28351,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 526.7452 281.94 0)
 			(effects
 				(font
@@ -28331,7 +28771,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 507.6952 281.94 0)
 			(effects
 				(font
@@ -28485,7 +28925,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 407.67 84.328 90)
 			(effects
 				(font
@@ -28611,7 +29051,7 @@
 				)
 			)
 		)
-		(property "Value" "15pF"
+		(property "Value" "33pF"
 			(at 518.16 57.912 90)
 			(effects
 				(font
@@ -28619,7 +29059,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 521.97 53.6448 0)
 			(effects
 				(font
@@ -29746,7 +30186,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 439.42 209.55 0)
 			(effects
 				(font

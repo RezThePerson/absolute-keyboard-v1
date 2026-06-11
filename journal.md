@@ -102,7 +102,20 @@ added footprints
 
 fixed minor issues here and there, hopefully there are no more :p
 
-## PCB (placing them in the layout) - 10rd Jun 2026 (1hrs)
+## PCB (placing them in the layout) - 10rd Jun 2026 (2hrs)
+
+so first i placed like about 10 of the 68 manualy using a grid, but then i realized there has to be a better way. and ofc there was
+
+<details>
+    <summary>
+        i installed the [Keyboard footprints placer](https://github.com/adamws/kicad-kbplacer) plugin. and used this (image given) configuration, with a 65% preset from [KLE](https://www.keyboard-layout-editor.com/#/)
+    </summary>
+      
+  ![](https://cdn.hackclub.com/019eb4fb-f313-7638-a226-63ec3ea9d9f1/image.png)
+</details>
+
+
+## PCB (placing the rest of the components) - 10rd Jun 2026 (2hrs)
 
 so first i placed like about 10 of the 68 manualy using a grid, but then i realized there has to be a better way. and ofc there was
 

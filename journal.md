@@ -102,7 +102,7 @@ added footprints
 
 fixed minor issues here and there, hopefully there are no more :p
 
-## PCB (placing them in the layout) - 10rd Jun 2026 (2hrs)
+## PCB (placing them in the layout) - 10rd Jun 2026 (3hrs)
 
 so first i placed like about 10 of the 68 manualy using a grid, but then i realized there has to be a better way. and ofc there was
 
@@ -111,20 +111,31 @@ so first i placed like about 10 of the 68 manualy using a grid, but then i reali
         i installed the [Keyboard footprints placer](https://github.com/adamws/kicad-kbplacer) plugin. and used this (image given) configuration, with a 65% preset from [KLE](https://www.keyboard-layout-editor.com/#/)
     </summary>
       
-  ![](https://cdn.hackclub.com/019eb4fb-f313-7638-a226-63ec3ea9d9f1/image.png)
-</details>
+  ![](https://cdn.hackclub.com/019eb8cf-d16d-72c7-b3fa-f84c9bb938e7/image.png)
+</details> 
 
+## PCB (wiring) - 10rd Jun 2026 (6hr)
 
-## PCB (placing the rest of the components) - 10rd Jun 2026 (2hrs)
-
-so first i placed like about 10 of the 68 manualy using a grid, but then i realized there has to be a better way. and ofc there was
+so i placed the components and started wiring...
 
 <details>
     <summary>
-        i installed the [Keyboard footprints placer](https://github.com/adamws/kicad-kbplacer) plugin. and used this (image given) configuration, with a 65% preset from [KLE](https://www.keyboard-layout-editor.com/#/)
+        this is how it turned out..
     </summary>
       
-  ![](https://cdn.hackclub.com/019eb4fb-f313-7638-a226-63ec3ea9d9f1/image.png)
+  ![](https://cdn.hackclub.com/019eb8cf-6d5d-7b10-a2c7-6559f9c10aa0/image.png)
+</details> 
+
+
+<details>
+    <summary>
+        but the actualy devboard part was too messy for me.. i simply could not manage to understand how i should wire it....
+    </summary>
+      
+  ![](https://cdn.hackclub.com/019eb8d1-85cc-7c21-8d9e-41e7b5f038a3/image.png)
 </details>
 
+so i had to restart on the devboard... and at that point i decided to do a clean restart of the pcb...
+
+## PCB (doing it again) - 10rd Jun 2026 (10hr)
 

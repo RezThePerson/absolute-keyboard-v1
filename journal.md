@@ -12,7 +12,7 @@ Im using the [macondo](https://macondo.hackclub.com/docs/build-a-devboard) guide
   ![](https://cdn.hackclub.com/019e8eaa-bff0-7f3e-a80d-8cf23a6ba875/image.png)
 </details>
 
-## Schematic (devboard) - 10rd Jun 2026 (2hrs)
+## Schematic (devboard) - 9rd Jun 2026 (2hrs)
 
 <details>
     <summary>
@@ -42,7 +42,7 @@ i could not for the life of me find that exact crystal footprint. turns out they
 
 completed (hopefully) the devboard; also did some reranging of the layout of the parts
 
-## Schematic (keyboard switches) - 10rd Jun 2026 (2hrs)
+## Schematic (keyboard switches) - 9rd Jun 2026 (2hrs)
 
 i dont know why but finding a "hotswap mx 5pin switch" took so long :'(. but i finally found the MX_V2 lib!!
 
@@ -54,7 +54,7 @@ i dont know why but finding a "hotswap mx 5pin switch" took so long :'(. but i f
   ![](https://cdn.hackclub.com/019eb38e-cd5f-7ae5-8ad0-a0b6d85c2c10/image.png)
 </details>
 
-## Schematic (Neopixels) - 10rd Jun 2026 (3hrs)
+## Schematic (Neopixels) - 9rd Jun 2026 (3hrs)
 
 I had to research 2 things...
 
@@ -114,7 +114,7 @@ so first i placed like about 10 of the 68 manualy using a grid, but then i reali
   ![](https://cdn.hackclub.com/019eb8cf-d16d-72c7-b3fa-f84c9bb938e7/image.png)
 </details> 
 
-## PCB (wiring) - 10rd Jun 2026 (6hr)
+## PCB (wiring) - 11rd Jun 2026 (6hr)
 
 so i placed the components and started wiring...
 
@@ -135,7 +135,16 @@ so i placed the components and started wiring...
   ![](https://cdn.hackclub.com/019eb8d1-85cc-7c21-8d9e-41e7b5f038a3/image.png)
 </details>
 
-so i had to restart on the devboard... and at that point i decided to do a clean restart of the pcb...
+so i had to restart on the devboard...
 
-## PCB (doing it again) - 10rd Jun 2026 (10hr)
+## PCB (doing it again) - 12rd Jun 2026 (10hr)
+
+<details>
+    <summary>
+        omg this is soo soo much cleaner its so much better, took me so long tho!
+    </summary>
+      
+  ![](https://cdn.hackclub.com/019ebd50-d8c1-7df8-81d2-b7e445a251fe/image.png)
+</details>
+
 

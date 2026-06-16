@@ -149,7 +149,7 @@ so i had to restart on the devboard...
 
 finaly the whole devboard is done!!
 
-## PCB (fixing filled zones) - 12rd Jun 2026 (6hr)
+## PCB (fixing filled zones) - 15rd Jun 2026 (3hr)
 
 turns out filled zones are not so easy... and they dont allaways fully connect. so i need to place a lot of vias and connect them.  
 
@@ -161,3 +161,42 @@ turns out filled zones are not so easy... and they dont allaways fully connect. 
   ![](https://cdn.hackclub.com/019ecda1-77cc-79be-9d3c-2dc040427c48/image.png)
 </details>
 
+<details>
+    <summary>
+        why is it so hard to find these.. ??
+    </summary>
+      
+  ![](https://cdn.hackclub.com/019ed13c-9855-796e-85a3-5e037315081c/image.png)
+</details>
+
+ok finaly im doneee!!!!
+
+## PCB (oopsie + branding) - 16rd Jun 2026 (2hr)
+
+https://cdn.hackclub.com/019ed176-bd90-7930-8662-b6996dfa222f/image.png
+
+<details>
+    <summary>
+        so turns out i forgot to add the spacebar stablizer... and now that i do it it is ontop of the parts
+    </summary>
+      
+  ![](https://cdn.hackclub.com/019ed176-bd90-7930-8662-b6996dfa222f/image.png)
+</details>
+
+witch means tiime to move a lot of parts and rewire a shit ton
+
+<details>
+    <summary>
+        finaly done
+    </summary>
+      
+  ![]()
+</details>
+
+<details>
+    <summary>
+        and to wrap things up, added a little text to say i made it.
+    </summary>
+      
+  ![](https://cdn.hackclub.com/019ed176-bd90-7930-8662-b6996dfa222f/image.png)
+</details>

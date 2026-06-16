@@ -112,7 +112,7 @@ so first i placed like about 10 of the 68 manualy using a grid, but then i reali
     </summary>
       
   ![](https://cdn.hackclub.com/019eb8cf-d16d-72c7-b3fa-f84c9bb938e7/image.png)
-</details> 
+</details>
 
 ## PCB (wiring) - 11rd Jun 2026 (6hr)
 
@@ -124,8 +124,7 @@ so i placed the components and started wiring...
     </summary>
       
   ![](https://cdn.hackclub.com/019eb8cf-6d5d-7b10-a2c7-6559f9c10aa0/image.png)
-</details> 
-
+</details>
 
 <details>
     <summary>
@@ -151,7 +150,7 @@ finaly the whole devboard is done!!
 
 ## PCB (fixing filled zones) - 15rd Jun 2026 (3hr)
 
-turns out filled zones are not so easy... and they dont allaways fully connect. so i need to place a lot of vias and connect them.  
+turns out filled zones are not so easy... and they dont allaways fully connect. so i need to place a lot of vias and connect them.
 
 <details>
     <summary>
@@ -185,13 +184,9 @@ https://cdn.hackclub.com/019ed176-bd90-7930-8662-b6996dfa222f/image.png
 
 witch means tiime to move a lot of parts and rewire a shit ton
 
-<details>
-    <summary>
-        finaly done
-    </summary>
-      
-  ![]()
-</details>
+aghh some more filled zone issue + DRC hole overlaps
+
+finaly done
 
 <details>
     <summary>

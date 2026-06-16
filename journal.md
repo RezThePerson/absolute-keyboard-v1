@@ -137,14 +137,27 @@ so i placed the components and started wiring...
 
 so i had to restart on the devboard...
 
-## PCB (doing it again) - 12rd Jun 2026 (10hr)
+## PCB (doing it again) - 12rd Jun 2026 (6hr)
 
 <details>
     <summary>
         omg this is soo soo much cleaner its so much better, took me so long tho!
     </summary>
       
-  ![](https://cdn.hackclub.com/019ebd50-d8c1-7df8-81d2-b7e445a251fe/image.png)
+  ![](https://cdn.hackclub.com/019ecda1-77cc-79be-9d3c-2dc040427c48/image.png)
 </details>
 
+finaly the whole devboard is done!!
+
+## PCB (fixing filled zones) - 12rd Jun 2026 (6hr)
+
+turns out filled zones are not so easy... and they dont allaways fully connect. so i need to place a lot of vias and connect them.  
+
+<details>
+    <summary>
+        and i have soo many of them i need to fix..
+    </summary>
+      
+  ![](https://cdn.hackclub.com/019ecda1-77cc-79be-9d3c-2dc040427c48/image.png)
+</details>
 

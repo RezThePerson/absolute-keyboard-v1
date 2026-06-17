@@ -1,4 +1,4 @@
-# Journal (total: xHrs)
+# Journal (total: 33Hrs)
 
 ## Schematic (devboard) - 3rd Jun 2026 (1hr)
 
@@ -196,7 +196,7 @@ finaly done
   ![](https://cdn.hackclub.com/019ed176-bd90-7930-8662-b6996dfa222f/image.png)
 </details>
 
-## case (disinging) - 16rd Jun 2026 (1hr)
+## case (disinging) - 17rd Jun 2026 (1hr)
 
 so i wanted this to be simple compact case so i googled around and got inspiraration from [this](https://www.myminifactory.com/object/3d-print-65-keyboard-case-100884) case.
 
@@ -209,3 +209,9 @@ i tryed to follow the hackpad guide for freecad (fusion wont work on linux) but 
       
   ![](https://cdn.hackclub.com/019ed676-f46c-734c-ad67-4c9da6510bea/image.png)
 </details>
+
+## firmware (coding) - 17rd Jun 2026 (1hr)
+
+used the help of gemini to understand how qmk works and wrote it. thats it lol.
+
+it also helped me do proper mappings

@@ -1,11 +1,12 @@
 # Absolute Keyboard v1
 
-| ![](https://placehold.co/600x400?text=[TBA]%20irl%20built%20keeb%20image) | ![](https://placehold.co/600x400?text=[TBA]%20irl%20just%20pcb%20image)  |
-| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| ![](https://placehold.co/600x400?text=[TBA]%20irl%20just%20case%20image)  | ![](https://cdn.hackclub.com/019ed252-c8e9-71b5-851c-63a933a92915/image.png) |
-| ![](https://cdn.hackclub.com/019ed676-f46c-734c-ad67-4c9da6510bea/image.png)  | ![](https://cdn.hackclub.com/019ed252-c6df-7287-b190-41df04b269af/image.png) |
+| ![](https://placehold.co/600x400?text=[TBA]%20irl%20built%20keeb%20image)    | ![](https://placehold.co/600x400?text=[TBA]%20irl%20just%20pcb%20image)      |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| ![](https://placehold.co/600x400?text=[TBA]%20irl%20just%20case%20image)     | ![](https://cdn.hackclub.com/019ed252-c8e9-71b5-851c-63a933a92915/image.png) |
+| ![](https://cdn.hackclub.com/019ed676-f46c-734c-ad67-4c9da6510bea/image.png) | ![](https://cdn.hackclub.com/019ed252-c6df-7287-b190-41df04b269af/image.png) |
 
 A simple keeb with
+
 - 65% layout (68 keey)
 - rp2040 chip (aka embeeded custom board)
 - neopixle for each switch

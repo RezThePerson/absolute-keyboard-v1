@@ -222,3 +222,7 @@ it also helped me do proper mappings
 ## PCB (oopsie 2) - 20rd Jun 2026 (1hr)
 
 turns out all the parts must be on one side or its like 5 times more expensive for pcba.. so i fliped the button and the power cable :p
+
+## BOM - 23rd jun (1hr)
+
+why on earth did just formating the bom and fiding the parts from lcsc take so long

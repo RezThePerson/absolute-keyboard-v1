@@ -1,4 +1,4 @@
-# Journal (total: 33Hrs)
+# Journal (total: 35Hrs)
 
 ## Schematic (devboard) - 3rd Jun 2026 (1hr)
 

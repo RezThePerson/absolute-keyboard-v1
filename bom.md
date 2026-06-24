@@ -1,4 +1,6 @@
-#### PCB
+# BOM
+
+### PCB
 
 | **item** | **quantity** | **cost**  |
 | -------- | ------------ | --------- |
@@ -6,7 +8,7 @@
 | shiping  | n/a          | $16.49    |
 |          | **TOTAL**    | **34.39** |
 
-#### PCBA PARTS COST
+### PCBA PARTS COST
 
 | **Item **        | LCSC **Part #** | **Quantity**   |
 | ---------------- | --------------- | -------------- |
@@ -30,15 +32,15 @@
 | flash memory     | C97521          | 1              |
 | 12 MHz crystal   | C9002           | 1              |
 |                  |                 | **\*2 boards** |
-|                  | **TOTAL:**      | **$52.77 **    |
+|                  | **TOTAL:**      | **$52.77**    |
 
-#### LCSC
+### LCSC
 
 | **Item**     | **Quantity** | **Cost** |
 | ------------ | ------------ | -------- |
 | SK6812MINI-E | 85           | $5.92    |
 
-#### Aliexpress
+### Aliexpress
 
 | **Item**                                                           | **Quantity** | **Cost**   |
 | ------------------------------------------------------------------ | ------------ | ---------- |
@@ -46,18 +48,18 @@
 | [Ketcaps](https://www.aliexpress.us/item/3256810324490408.html)    | 1            | $14.90     |
 |                                                                    | **TOTAL**    | **$21.17** |
 
-#### Milktooth
+### Milktooth
 
 | **Item**                                                   | **Quantity** | **Cost** |
 | ---------------------------------------------------------- | ------------ | -------- |
-| ![Switches](https://milktooth.com/products/everfree-cedar) | 80           | $31.26   |
+| [Switches](https://milktooth.com/products/everfree-cedar) | 80           | $31.26   |
 
-#### Case
+### Case
 
 | **Item**  | **Quantity** | **Cost** |
 | --------- | ------------ | -------- |
 | keeb case | 1            | $0.00    |
 
-#### Total
+### Total
 
 **$145.51**

@@ -215,3 +215,10 @@ i tryed to follow the hackpad guide for freecad (fusion wont work on linux) but 
 used the help of gemini to understand how qmk works and wrote it. thats it lol.
 
 it also helped me do proper mappings
+
+(ahm ahm vibe code)
+
+
+## PCB (oopsie 2) - 20rd Jun 2026 (1hr)
+
+turns out all the parts must be on one side or its like 5 times more expensive for pcba.. so i fliped the button and the power cable :p

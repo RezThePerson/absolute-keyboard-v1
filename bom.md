@@ -32,7 +32,7 @@
 | flash memory     | C97521          | 1              |
 | 12 MHz crystal   | C9002           | 1              |
 |                  |                 | **\*2 boards** |
-|                  | **TOTAL:**      | **$52.77**    |
+|                  | **TOTAL:**      | **$52.77**     |
 
 ### LCSC
 
@@ -42,16 +42,18 @@
 
 ### Aliexpress
 
-| **Item**                                                           | **Quantity** | **Cost**   |
-| ------------------------------------------------------------------ | ------------ | ---------- |
-| [Stablizers](https://www.aliexpress.us/item/3256806342416791.html) | 1            | $6.27      |
-| [Ketcaps](https://www.aliexpress.us/item/3256810324490408.html)    | 1            | $14.90     |
-|                                                                    | **TOTAL**    | **$21.17** |
+| **Item**                                                               | **Quantity** | **Cost**   |
+| ---------------------------------------------------------------------- | ------------ | ---------- |
+| [Stablizers](https://www.aliexpress.us/item/3256806342416791.html)     | 1            | $6.27      |
+| [Ketcaps](https://www.aliexpress.us/item/3256810324490408.html)        | 1            | $14.90     |
+| [Ketcaps](https://www.aliexpress.us/item/3256810324490408.html)        | 1            | $14.90     |
+| [Soldering Iron](https://www.aliexpress.us/item/3256807287756174.html) | 1            | $15.91     |
+|                                                                        | **TOTAL**    | **$37.08** |
 
 ### Milktooth
 
-| **Item**                                                   | **Quantity** | **Cost** |
-| ---------------------------------------------------------- | ------------ | -------- |
+| **Item**                                                  | **Quantity** | **Cost** |
+| --------------------------------------------------------- | ------------ | -------- |
 | [Switches](https://milktooth.com/products/everfree-cedar) | 80           | $31.26   |
 
 ### Case
@@ -62,4 +64,4 @@
 
 ### Total
 
-**$145.51**
+**$161.42**

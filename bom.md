@@ -5,8 +5,9 @@
 | **item** | **quantity** | **cost**   |
 | -------- | ------------ | ---------- |
 | board    | 5            | $18.40     |
-| shiping  | n/a          | $32.32     |
-|          | **TOTAL**    | **$50.72** |
+| shiping  | n/a          | $46.72     |
+| duties   | n/a          | $16.54     |
+|          | **TOTAL**    | **$28.84** |
 
 ### PCBA PARTS COST
 
@@ -33,14 +34,14 @@
 
 ### LCSC
 
-| **Item**       | **Quantity** | **Cost**   |
-| -------------- | ------------ | ---------- |
-| SK6812MINI-E   | 85           | $5.89      |
-| 1N4148         | 100          | $0.94      |
-| hotswap socket | 70           | $3.12      |
-| push button    | 5            | $0.67      |
-| shiping        | n/a          | $12.5      |
-|                | **TOTAL:**   | **$23.12** |
+| **Item**       | **Quantity** | **Cost**                           |
+| -------------- | ------------ | ---------------------------------- |
+| SK6812MINI-E   | 85           | $5.89                              |
+| 1N4148         | 100          | $0.94                              |
+| hotswap socket | 70           | $3.12                              |
+| push button    | 5            | $0.67                              |
+| shiping        | n/a          | $0 (combined with jblpcb hopefuly) |
+|                | **TOTAL:**   | **$23.12**                         |
 
 ### Aliexpress
 
@@ -65,4 +66,4 @@
 
 ### Total
 
-**$175.67**
+**$194.11**

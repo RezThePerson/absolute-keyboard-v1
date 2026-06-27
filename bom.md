@@ -2,15 +2,15 @@
 
 ### PCB
 
-| **item** | **quantity** | **cost**  |
-| -------- | ------------ | --------- |
-| board    | 5            | $17.90    |
-| shiping  | n/a          | $16.49    |
-|          | **TOTAL**    | **34.39** |
+| **item** | **quantity** | **cost**   |
+| -------- | ------------ | ---------- |
+| board    | 5            | $18.40     |
+| shiping  | n/a          | $32.32     |
+|          | **TOTAL**    | **$50.72** |
 
 ### PCBA PARTS COST
 
-| **Item **        | LCSC **Part #** | **Quantity**   |
+| **Item**         | LCSC **Part #** | **Quantity**   |
 | ---------------- | --------------- | -------------- |
 | other pcba costs | n/a             | n/a            |
 | 0.1uF capacitor  | C1525           | 11             |
@@ -18,37 +18,38 @@
 | 10uF capacitor   | 603             | 2              |
 | 33pF capacitor   | C1562           | 2              |
 | 100pF capacitor  | C1546           | 1              |
-| diodes           | C2499           | 68             |
 | usbc connector   | C165948         | 1              |
-| SK6812MINI-E     | C5149201        | 68             |
 | 5.1K resistor    | C25905          | 2              |
 | 27 resistor      | C9002           | 2              |
 | 1K resistor      | C11702          | 2              |
 | 10K resistor     | C25744          | 1              |
 | switch           | C115357         | 1              |
-| hotswap pocket   | C49352235       | 68             |
 | RP2040           | C2040           | 1              |
 | 3.3v stablizer   | C6186           | 1              |
 | flash memory     | C97521          | 1              |
 | 12 MHz crystal   | C9002           | 1              |
 |                  |                 | **\*2 boards** |
-|                  | **TOTAL:**      | **$52.77**     |
+|                  | **TOTAL:**      | **$28.84**     |
 
 ### LCSC
 
-| **Item**     | **Quantity** | **Cost** |
-| ------------ | ------------ | -------- |
-| SK6812MINI-E | 85           | $5.92    |
+| **Item**       | **Quantity** | **Cost**   |
+| -------------- | ------------ | ---------- |
+| SK6812MINI-E   | 85           | $5.89      |
+| 1N4148         | 100          | $0.94      |
+| hotswap socket | 70           | $3.12      |
+| push button    | 5            | $0.67      |
+| shiping        | n/a          | $12.5      |
+|                | **TOTAL:**   | **$23.12** |
 
 ### Aliexpress
 
 | **Item**                                                               | **Quantity** | **Cost**   |
 | ---------------------------------------------------------------------- | ------------ | ---------- |
-| [Stablizers](https://www.aliexpress.us/item/3256806342416791.html)     | 1            | $6.27      |
-| [Ketcaps](https://www.aliexpress.us/item/3256810324490408.html)        | 1            | $14.90     |
-| [Ketcaps](https://www.aliexpress.us/item/3256810324490408.html)        | 1            | $14.90     |
-| [Soldering Iron](https://www.aliexpress.us/item/3256807287756174.html) | 1            | $15.91     |
-|                                                                        | **TOTAL**    | **$37.08** |
+| [Stablizers](https://www.aliexpress.us/item/3256806342416791.html)     | 1            | $8.07      |
+| [Ketcaps](https://www.aliexpress.us/item/3256810324490408.html)        | 1            | $16.71     |
+| [Soldering Iron](https://www.aliexpress.us/item/3256807287756174.html) | 1            | $16.95     |
+|                                                                        | **TOTAL**    | **$41.73** |
 
 ### Milktooth
 
@@ -64,4 +65,4 @@
 
 ### Total
 
-**$161.42**
+**$175.67**

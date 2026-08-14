@@ -1,9 +1,9 @@
 # Absolute Keyboard v1
 
-| ![](https://placehold.co/600x400?text=[TBA]%20irl%20built%20keeb%20image)    | ![](https://placehold.co/600x400?text=[TBA]%20irl%20just%20pcb%20image)      |
-| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| ![](https://placehold.co/600x400?text=[TBA]%20irl%20just%20case%20image)     | ![](https://cdn.hackclub.com/019ed252-c8e9-71b5-851c-63a933a92915/image.png) |
-| ![](https://cdn.hackclub.com/019ed676-f46c-734c-ad67-4c9da6510bea/image.png) | ![](https://cdn.hackclub.com/019ed252-c6df-7287-b190-41df04b269af/image.png) |
+| ![](https://cdn.hackclub.com/019ffbd5-9ff7-7f1e-84a5-0021e8317d6e/whatsapp_image_2026-08-13_at_3.27.22_pm.jpeg) | ![](https://cdn.hackclub.com/019ffbd5-a2a9-7866-8ae0-d908cc07aa23/whatsapp_image_2026-08-13_at_3.27.21_pm_1_.jpeg) |
+| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| ![](https://cdn.hackclub.com/019ffbd5-a55c-730c-8761-5f88ef3ba6a1/whatsapp_image_2026-08-13_at_3.27.21_pm.jpeg) | ![](https://cdn.hackclub.com/019ed252-c8e9-71b5-851c-63a933a92915/image.png)                                       |
+| ![](https://cdn.hackclub.com/019ed676-f46c-734c-ad67-4c9da6510bea/image.png)                                    | ![](https://cdn.hackclub.com/019ed252-c6df-7287-b190-41df04b269af/image.png)                                       |
 
 A simple keeb with
 

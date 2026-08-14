@@ -1,7 +1,6 @@
 # Journal (total: 35Hrs)
 
 ## Schematic (devboard) - 3rd Jun 2026 (1hr)
-
 Im using the [macondo](https://macondo.hackclub.com/docs/build-a-devboard) guide for help on this!
 
 <details>
@@ -226,3 +225,20 @@ turns out all the parts must be on one side or its like 5 times more expensive f
 ## BOM - 23rd jun (1hr)
 
 why on earth did just formating the bom and fiding the parts from lcsc take so long
+
+## Soldering - 13th August 2026 (4hr)
+
+both the hotswap sockets and the diodes were quite fast and easy once i got the rhythm tho the diodes long ends were anoying to cut and colect
+
+i tryed soldering the leds but those small pins and light weight were too mutch after like the 3rd one so i gave up on that.
+
+
+## Misc assembly - 13th August 2026 (3hrs)
+
+idk why it took me so long to figure out how to install the stablizers..
+
+puting the switches was also quite quick but it took soo long to find the right keycap for each key and place it agh
+
+so turns out the "minimalistic" case i made has the wrong dimentions so i just decided to put some bubble wrap under it :p
+
+flashing the firware was simple.

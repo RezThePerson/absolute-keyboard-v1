@@ -1,4 +1,4 @@
-# Journal (total: 35Hrs)
+# Journal (total: 42Hrs)
 
 ## Schematic (devboard) - 3rd Jun 2026 (1hr)
 Im using the [macondo](https://macondo.hackclub.com/docs/build-a-devboard) guide for help on this!

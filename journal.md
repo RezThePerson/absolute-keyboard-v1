@@ -93,11 +93,23 @@ bluetooth was harder. i could add another chip but that would be much more compl
 
 or i could change the rp2040 chip entirely for a nRF52840. that would solve the bluetooth issue.. but i would then need to also remaake its devboard and i dont think i trust myself to do that and expect it to work.
 
-so i eventualy decided that its fine if its not wireless, it would reduce some weight and it would be relitivly thiner!
+<details>
+    <summary>
+    	so i eventualy decided that its fine if its not wireless, it would reduce some weight and it would be relitivly thiner!
+    </summary>
+      
+  ![](https://cdn.hackclub.com/01a180b2-5294-7a53-877f-86060f843b87/image.png)
+</details>
 
 ## Schematic (final stuff) - 10rd Jun 2026 (1hrs)
 
-added footprints
+<details>
+    <summary>
+    	added footprints
+    </summary>
+      
+  ![](https://cdn.hackclub.com/01a180b2-9c84-762e-8638-8e893bab2fbd/image.png)
+</details>
 
 fixed minor issues here and there, hopefully there are no more :p
 
@@ -211,26 +223,52 @@ i tryed to follow the hackpad guide for freecad (fusion wont work on linux) but 
 
 ## firmware (coding) - 17rd Jun 2026 (1hr)
 
-used the help of gemini to understand how qmk works and wrote it. thats it lol.
+<details>
+    <summary>
+    	used the help of gemini to understand how qmk works and wrote it. thats it lol.
+    </summary>
+      
+	![](https://cdn.hackclub.com/01a180b0-d08f-7fdc-bb05-3832369c6336/image.png)
+</details>
 
 it also helped me do proper mappings
 
 (ahm ahm vibe code)
 
 
+
 ## PCB (oopsie 2) - 20rd Jun 2026 (1hr)
 
-turns out all the parts must be on one side or its like 5 times more expensive for pcba.. so i fliped the button and the power cable :p
+<details>
+    <summary>
+    	turns out all the parts must be on one side or its like 5 times more expensive for pcba.. so i fliped the button and the power cable :p
+    </summary>
+      
+	![](https://cdn.hackclub.com/019ed252-c8e9-71b5-851c-63a933a92915/image.png)
+</details>
 
 ## BOM - 23rd jun (1hr)
 
-why on earth did just formating the bom and fiding the parts from lcsc take so long
+<details>
+    <summary>
+    	why on earth did just formating the bom and fiding the parts from lcsc take so long
+    </summary>
+      
+	![](https://cdn.hackclub.com/01a180af-8c41-751d-85b2-3a4bb4cb509e/image.png)
+</details>
+
 
 ## Soldering - 13th August 2026 (4hr)
 
 both the hotswap sockets and the diodes were quite fast and easy once i got the rhythm tho the diodes long ends were anoying to cut and colect
 
-i tryed soldering the leds but those small pins and light weight were too mutch after like the 3rd one so i gave up on that.
+<details>
+    <summary>
+    	i tryed soldering the leds but those small pins and light weight were too mutch after like the 3rd one so i gave up on that.
+    </summary>
+      
+	![](https://cdn.hackclub.com/019ffbd5-9ff7-7f1e-84a5-0021e8317d6e/whatsapp_image_2026-08-13_at_3.27.22_pm.jpeg)
+</details>
 
 
 ## Misc assembly - 13th August 2026 (3hrs)
@@ -239,6 +277,12 @@ idk why it took me so long to figure out how to install the stablizers..
 
 puting the switches was also quite quick but it took soo long to find the right keycap for each key and place it agh
 
-so turns out the "minimalistic" case i made has the wrong dimentions so i just decided to put some bubble wrap under it :p
+<details>
+    <summary>
+    	so turns out the "minimalistic" case i made has the wrong dimentions so i just decided to put some bubble wrap under it :p
+    </summary>
+      
+	![](https://cdn.hackclub.com/019ffbd5-a55c-730c-8761-5f88ef3ba6a1/whatsapp_image_2026-08-13_at_3.27.21_pm.jpeg)
+</details>
 
 flashing the firware was simple.
